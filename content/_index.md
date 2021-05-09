@@ -1,5 +1,5 @@
 ---
-title: 'fox.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'fox.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 fox.com is under construction."
 ---
 
